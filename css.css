@@ -1,0 +1,36 @@
+h2, h3 {
+    text-align: center;
+}
+
+div div div {
+    height: 100px;
+    width: 100px;
+    border: 4px solid black;
+    border-radius: 15px;
+    margin: 10px 5px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+.div1 {
+    background-color: rgb(212, 212, 45);
+}
+
+.div2 {
+    background-color: cyan;
+}
+
+.div3 {
+    background-color: orangered;
+}
+
+.div4 {
+    background-color: blue;
+}
+
+.flash {
+    background-color: white;
+}
